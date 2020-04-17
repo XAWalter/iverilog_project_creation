@@ -1,3 +1,4 @@
 # Required Pkgs  
 iverilog  
-make
+make  
+gtkwave
