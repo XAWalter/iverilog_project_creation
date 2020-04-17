@@ -1,4 +1,4 @@
 # iverilog_project_creation
-Required Pkgs
-iverilog
+Required Pkgs  
+iverilog  
 make
